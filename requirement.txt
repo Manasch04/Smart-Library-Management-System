@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+scipy
+datetime
+collections
+logging
+csv
+json
+hashlib
+getpass
+os
+time
